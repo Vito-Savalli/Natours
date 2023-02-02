@@ -1,6 +1,6 @@
 # Natours
 
-Welcome to Natours, the ultimate adventure travel company.<br /> Experience the beauty of nature with our guided tours, led by expert guides.<br /> Our website is designed with the adventurous traveler in mind, offering a range of nature-based tours to choose from. <br />This project is built using HTML, Sass, and JavaScript, ensuring a stylish and interactive user experience.<br /> Start planning your next adventure with Natours today.
+Welcome to Natours, the ultimate adventure travel company.<br /> Experience the beauty of nature with our guided tours, led by expert guides.<br /> Our website is designed with the adventurous traveler in mind, offering a range of nature-based tours to choose from. <br />This project is built using HTML, SASS, and JavaScript, ensuring a stylish and interactive user experience.<br /> Start planning your next adventure with Natours today.
 
 [Visit Natours &#8594;](https://github.com/Vito-Savalli)
 
@@ -12,7 +12,7 @@ Course : [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://ww
 
 Course detail : 28h video course on advanced CSS and CSS preprocessor concepts, responsive grid, flexbox and animations.
 
-[Certification](https://www.udemy.com/certificate/UC-d511f016-19b0-4765-a29e-f30507d528d0/)
+[Certification.](https://www.udemy.com/certificate/UC-d511f016-19b0-4765-a29e-f30507d528d0/)
 
 ## Let's Connect !
 
